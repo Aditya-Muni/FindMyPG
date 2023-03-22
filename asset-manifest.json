@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/FindMyPG/static/css/main.a882218c.css",
-    "main.js": "/FindMyPG/static/js/main.a07782dc.js",
+    "main.js": "/FindMyPG/static/js/main.ff64ff11.js",
     "static/media/about.jpg": "/FindMyPG/static/media/about.56e92b20e762df2fa5de.jpg",
     "static/media/pricing.jpg": "/FindMyPG/static/media/pricing.4552ccf3b91e93029513.jpg",
     "static/media/services.jpg": "/FindMyPG/static/media/services.13be7fde05782bd5e2e8.jpg",
     "static/media/banner.png": "/FindMyPG/static/media/banner.834f506ed5d94f1e48f9.png",
     "index.html": "/FindMyPG/index.html",
     "main.a882218c.css.map": "/FindMyPG/static/css/main.a882218c.css.map",
-    "main.a07782dc.js.map": "/FindMyPG/static/js/main.a07782dc.js.map"
+    "main.ff64ff11.js.map": "/FindMyPG/static/js/main.ff64ff11.js.map"
   },
   "entrypoints": [
     "static/css/main.a882218c.css",
-    "static/js/main.a07782dc.js"
+    "static/js/main.ff64ff11.js"
   ]
 }
