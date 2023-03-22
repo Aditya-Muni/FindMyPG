@@ -1,20 +1,20 @@
-import React from "react"
-import Back from "../common/Back"
-import RecentCard from "../home/recent/RecentCard"
-import "../home/recent/recent.css"
-import img from "../images/about.jpg"
+import React from "react";
+import Back from "../common/Back";
+import RecentCard from "../home/recent/RecentCard";
+import "../home/recent/recent.css";
+import img from "../images/banner.png";
 
 const Blog = () => {
   return (
     <>
-      <section className='blog-out mb'>
-        <Back name='Blog' title='Blog Grid - Our Blogs' cover={img} />
-        <div className='container recent'>
+      <section className="blog-out mb">
+        <Back name="Blog" title="Blog Grid - Our Blogs" cover={img} />
+        <div className="container recent">
           <RecentCard />
         </div>
       </section>
     </>
-  )
-}
+  );
+};
 
-export default Blog
+export default Blog;
